@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1009053376734",
+    "firebase_url": "https://wwf-app-265109.firebaseio.com",
+    "project_id": "wwf-app-265109",
+    "storage_bucket": "wwf-app-265109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009053376734:android:a1e44bddd03743d499224f",
+        "android_client_info": {
+          "package_name": "com.app.ywefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009053376734-bcc1hse3vql3fi1rpim0ffj1tdan62d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ywefit",
+            "certificate_hash": "3ef74c9863882a2b6c5422cd34a1a52798787608"
+          }
+        },
+        {
+          "client_id": "1009053376734-2pvcj7jd2pjjaaj3m7nv7bca7opbein5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.ywefit",
+            "certificate_hash": "6decd5c439ab435995949ea6a7cbe8cf2bb8cb09"
+          }
+        },
+        {
+          "client_id": "1009053376734-n2hnd0i7id5rtvqhav13r6hdhp2d9ph6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9CrXXV2LZtzeDY0aHCSh5NNjl72GYcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009053376734-n2hnd0i7id5rtvqhav13r6hdhp2d9ph6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009053376734-sn7anvgumuis9gp9a481hu3tm0no60pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whywefit.ywefit"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009053376734:android:f87a93dc422f83ae99224f",
+        "android_client_info": {
+          "package_name": "com.whywefit.ywefit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009053376734-n2hnd0i7id5rtvqhav13r6hdhp2d9ph6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9CrXXV2LZtzeDY0aHCSh5NNjl72GYcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009053376734-n2hnd0i7id5rtvqhav13r6hdhp2d9ph6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009053376734-sn7anvgumuis9gp9a481hu3tm0no60pm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whywefit.ywefit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

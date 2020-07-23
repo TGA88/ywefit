@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1009053376734-sn7anvgumuis9gp9a481hu3tm0no60pm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1009053376734-sn7anvgumuis9gp9a481hu3tm0no60pm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1009053376734-aotg13cqqfts89ct7ufusucpuoldut81.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvqA2A_P7qDgY-VTIQVdET1N522i1DZB0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1009053376734</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.whywefit.ywefit</string>
+	<key>PROJECT_ID</key>
+	<string>wwf-app-265109</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wwf-app-265109.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1009053376734:ios:1b2c6779a28d8d7c99224f</string>
+	<key>DATABASE_URL</key>
+	<string>https://wwf-app-265109.firebaseio.com</string>
+</dict>
+</plist>

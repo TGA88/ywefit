@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
 
 class SignUpPage extends StatelessWidget {
   @override
@@ -19,8 +20,14 @@ class SignUpPage extends StatelessWidget {
     );
   }
 
-  void fetchData() {
+  void fetchData() async {
     print('fetchData');
+    QuerySnapshot qSnap =
+        await Firestore.instance.collection('tickets').getDocuments();
+    List<DocumentSnapshot> docList = qSnap.documents.toList();
+    for (var item in docList) {
+      print(item.data);
+    }
   }
 
   void fetchStream() {
