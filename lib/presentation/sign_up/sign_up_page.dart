@@ -23,7 +23,8 @@ class SignUpPage extends StatelessWidget {
   void fetchData() async {
     print('fetchData');
     QuerySnapshot qSnap =
-        await Firestore.instance.collection('tickets').getDocuments();
+         await Firestore.instance.collection('employees').document('best').collection('private_data').getDocuments();
+         //await Firestore.instance.collection('status').where("status",isEqualTo: "i").getDocuments();
     List<DocumentSnapshot> docList = qSnap.documents.toList();
     for (var item in docList) {
       print(item.data);
