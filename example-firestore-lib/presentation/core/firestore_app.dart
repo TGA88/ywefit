@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import './employee/list/employee_list_page.dart';
+import '../employee/list/employee_list_page.dart';
 
 class FirestoreApp extends StatelessWidget {
   @override
